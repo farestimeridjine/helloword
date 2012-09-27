@@ -1,0 +1,7 @@
+<project>
+<modelVfersion>4.0.0</modelVersion>
+  
+     <groupId>FMIN365</groupId>
+   <artifactId>helloword</artifactId>
+   <version>0.1</version>
+</project>
